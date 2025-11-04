@@ -29,7 +29,7 @@
 
 
         //remoção de itens do array
-        unset($carros[5])
+        unset($carros[5]);
         echo "<br>";
         var_dump($carros);
 

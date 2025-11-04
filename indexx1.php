@@ -10,7 +10,7 @@
     //comando de condição if
     $numero=10;
     if($numero == 10):
-        echo "é igual a 10"
+        echo "é igual a 10";
     endif;
 
     //comando de condição de if - segunda forma
